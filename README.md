@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ### Colab 
 
 If you don't have a powerful enough machine, you can still use the main notebook in colab : 
-[![Try in Colab !](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorMorand/VictorMorand/Highway-env-project/blob/main/Final_Project.ipynb)
+[![Try in Colab !](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorMorand/Highway-env-project/blob/main/Final_Project.ipynb)
 
 # Problems 
 
